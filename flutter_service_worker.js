@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e3829b86e03caea7fa9a75db7e691440",
+  "assets/AssetManifest.json": "13b240ec53bcf6890216c98d303fba8e",
 "assets/assets/content/About%2520me.docx": "352453cb1b572113d1255efea2d5fddf",
 "assets/assets/content/DSC00038.JPG": "d65fcbb0f4e79e1a0c7fed97127683d8",
 "assets/assets/content/IMG_20221112_204350_374.jpg": "e5ee6b1b949d48a801ed4b1c164f1dc5",
@@ -153,7 +153,7 @@ const RESOURCES = {
 "css/style.css": "6d70ecfb8ef203b3eb824a3e4a94b11c",
 "css/templatemo-style.css": "a2646660c1c95083eec516a3290ae8b5",
 "favicon.png": "c5629d182a40c37aa391c93b84ab860a",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "fonts/fontawesome-webfont.eot": "f7c2b4b747b1a225eb8dee034134a1b0",
 "fonts/fontawesome-webfont.svg": "139e74e298bca37a25d2bd5868552e04",
 "fonts/fontawesome-webfont.ttf": "706450d7bba6374ca02fe167d86685cb",
@@ -180,9 +180,9 @@ const RESOURCES = {
 "images/Nepal.mp4": "260cbdcaebc62cdc1dbda297591aea8c",
 "images/research_assistant.jpg": "d3780d4769f953849f514532f99be4a0",
 "images/teach.mp4": "6c189474521128f556a1c42ebca1ec9a",
-"index.html": "aec629017e2ac8ff730cd2ceb07fb8c5",
-"/": "aec629017e2ac8ff730cd2ceb07fb8c5",
-"main.dart.js": "367a2e8a161006cf8806e253860ff222",
+"index.html": "c41311db2084034835fc86297b2894aa",
+"/": "c41311db2084034835fc86297b2894aa",
+"main.dart.js": "52ffaf0d371d731aa25417e9906b10ea",
 "manifest.json": "e96eb99214655a65bb19b5de88a30410",
 "README.md": "82cbc06674c6c170bdc03db2c1d2cee6",
 "version.json": "c790b2138a4fd6abfd10d59cb4d8c24c"
