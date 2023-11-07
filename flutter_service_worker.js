@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "09528adbac415b84bf4f7a86907161a9",
-"assets/AssetManifest.json": "13b240ec53bcf6890216c98d303fba8e",
+const RESOURCES = {"assets/AssetManifest.bin": "e9d2561730e8df58bad3f0672a0354a0",
+"assets/AssetManifest.json": "631bf5477d61a79f7dc21537680ff13c",
 "assets/assets/content/About%2520me.docx": "352453cb1b572113d1255efea2d5fddf",
 "assets/assets/content/DSC00038.JPG": "d65fcbb0f4e79e1a0c7fed97127683d8",
 "assets/assets/content/IMG_20221112_204350_374.jpg": "e5ee6b1b949d48a801ed4b1c164f1dc5",
@@ -108,7 +108,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "09528adbac415b84bf4f7a86907161a9
 "assets/assets/images/skills2.png": "5849f99db0aaf1026199cd184087deae",
 "assets/assets/images/SUBODH.pdf": "fe5a187f0ae0bd7af1fa2ac8ce0f3021",
 "assets/assets/images/subodh.png": "b531b213948bbd104f1a3bc7d747d6a9",
-"assets/assets/images/subodh_cv.pdf": "ca394131face2df786d7842f7c3d7acf",
+"assets/assets/images/subodh_cv.pdf": "14f7266f59eba52b5283b220d91b1101",
+"assets/assets/images/subodh_cv101.pdf": "ca394131face2df786d7842f7c3d7acf",
 "assets/assets/images/up-arrow.png": "d0c6457f5704962b99f0e6aa3e9b18e7",
 "assets/assets/images/works.png": "5c6f8eb3a22f703781aad6c2528cf0cd",
 "assets/assets/screenshots/0.jpg": "d7a4be69fcea5718ce8fdaa844ce0988",
@@ -145,9 +146,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "09528adbac415b84bf4f7a86907161a9
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "be210d14762db8695961bd1aca6357aa",
-"/": "be210d14762db8695961bd1aca6357aa",
-"main.dart.js": "593e7b1543f9df6a72107fcb4de6c647",
+"index.html": "4edbc71ef961c974f81fde10c6c8acbf",
+"/": "4edbc71ef961c974f81fde10c6c8acbf",
+"main.dart.js": "61f7f6f6fd070e8a0171c2a3f5f73fad",
 "manifest.json": "bfeba6eb553b3efd026fcb58c6007a67",
 "version.json": "f3abb0d64dea5fc23d4d313236e8e55d"};
 // The application shell files that are downloaded before a service worker can
